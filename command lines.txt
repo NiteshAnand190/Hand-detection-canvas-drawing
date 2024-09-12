@@ -1,0 +1,3 @@
+paint_env\Scripts\activate
+
+python C:\Users\nites\Desktop\New folder\My_Project.py
