@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/virtual-paint-gesture.git](https://github.com/NiteshAnand190/Hand-detection-canvas-drawing.git)
+git clone (https://github.com/NiteshAnand190/Hand-detection-canvas-drawing.git)
 cd virtual-paint-gesture
 Install the required packages:
 
