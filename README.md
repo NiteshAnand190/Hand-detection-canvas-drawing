@@ -30,7 +30,7 @@ This is a Python-based virtual paint application that utilizes OpenCV, Mediapipe
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/virtual-paint-gesture.git
+    git clone https://github.com/NiteshAnand190/Hand-detection-canvas-drawing.git
     cd virtual-paint-gesture
     ```
 
